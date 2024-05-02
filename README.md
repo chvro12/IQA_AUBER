@@ -30,6 +30,9 @@ Le script intègre des techniques avancées de machine learning pour prédire la
 
 ### **Analyse de la Matrice de Confusion pour la Classification de la Qualité de l'Air**
 
+<img width="485" alt="Capture d’écran 2024-05-02 à 12 04 36" src="https://github.com/chvro12/IQA_AUBER/assets/134718881/6d0d4bf3-77b6-45da-a86e-39bf9ca13d31">
+
+
 ### **Contexte**
 
 La matrice de confusion est un outil essentiel pour évaluer la performance des modèles de classification. Elle permet de visualiser les performances d'un modèle en comparant les valeurs prédites avec les valeurs réelles. Dans votre projet, la matrice de confusion révèle la précision du modèle de forêt aléatoire utilisé pour classer la qualité de l'air en trois catégories: "Bon", "Mauvais" et "Modéré".
