@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-Le projet vise à développer une application pour l'analyse et la classification de la qualité de l'air à partir de données environnementales. Le processus comprend deux grandes phases : le nettoyage des données et la classification basée sur les indices de qualité de l'air (IQA) pour PM2.5. L'application est conçue pour être utilisée via une interface graphique Tkinter qui facilite la sélection et la manipulation des fichiers de données.
+Le projet vise à développer un modèle pour l'analyse et la classification de la qualité de l'air à partir de données environnementales. Le processus comprend deux grandes phases : le nettoyage des données et la classification basée sur les indices de qualité de l'air (IQA) pour PM2.5. Le modèle est conçue pour être utilisée via une interface graphique Tkinter qui facilite la sélection et la manipulation des fichiers de données.
 
 ### **Première Partie : Nettoyage des Données**
 
